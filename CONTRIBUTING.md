@@ -1,0 +1,3 @@
+# Contributing
+
+Contributions are welcome for transparent methodology, evidence review, source verification, reproducible code, privacy-preserving survey design and calibration. Open an issue describing the research question, assumptions and proposed change. Do not submit scraped dating profiles, identifiable sensitive data or invented demographic estimates. Tests are required for code changes. Cite original sources and clearly distinguish hypothetical examples from observations. Preserve gender inclusion and bilateral adult age preferences. Substantive changes to the estimand should update the manuscript and changelog.

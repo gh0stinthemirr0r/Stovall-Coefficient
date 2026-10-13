@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this methodological research proposal using the following metadata."
+title: "The Stovall Coefficient: A Gender-Inclusive, Orientation-Aware Framework for Estimating Reciprocal Dating Opportunity"
+type: software
+version: "3.0"
+date-released: 2026-10-12
+authors:
+  - family-names: Stovall
+    given-names: Aaron
+abstract: "Proposed, unvalidated statistical framework for estimating aggregate reciprocal adult dating opportunity."
